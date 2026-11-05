@@ -1,0 +1,6 @@
+venv/
+.venv/
+__pycache__/
+.streamlit/secrets.toml
+app_light.py
+app_stars_dark.py
